@@ -1,6 +1,6 @@
 # Family secret recipes
 
-* pizzas (TODO)
-* sauces (TODO)
-* spreads (TODO)
+* pizas (TODO)
+* saces (TODO)
+* spead (TODO)
 #stars create bulletpoints
